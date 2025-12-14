@@ -1,0 +1,17 @@
+# Eclipse 
+.classpath 
+.project 
+.settings/ 
+bin/ 
+.metadata/ 
+ECHO is on.
+# Compiled class files 
+*.class 
+ECHO is on.
+# Package Files 
+*.jar 
+ECHO is on.
+# Database files 
+*.db 
+ECHO is on.
+# Screenshots can stay 
